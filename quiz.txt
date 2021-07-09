@@ -1,0 +1,10 @@
+1) Error verecek leti ikinci defe teyin etmek olmur etmek olmur
+2)underfined
+3)1
+4)b
+5)catcha dusub error mesajin veerceek
+6)1 ci ! false 2 ci de ise artiq defalt olaraq true dusecek ve NaN sozduse eger string cixardacaq
+7)---------
+8)const birdefe deyer qebul edir ve case 2 de ibrahimi tapub duracaq ve hello yazdiracaq
+9)abc funksiyasinin propertisi abc cixacaq ancaq underfined kimi cunki hecne teyin olunmuyub
+10)error
